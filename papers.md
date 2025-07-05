@@ -1,5 +1,5 @@
 ---
-title: Home
-layout: home
-nav_order: 1
+title: Papers
+layout: default
+nav_order: 2
 ---
