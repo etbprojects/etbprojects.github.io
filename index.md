@@ -10,13 +10,16 @@ nav_order: 1
 </h1>
 
 ## Welcome to ETB Projects! 👋🔭📚
+ETB Projects is a STEM-focused collaborative project shaped by our shared passion for knowledge. Our topics range from string theory to solid-state physics, and this site serves as a living documentation of our academic and professional progress. We primarily focus on theoretical and applied physics, including a range of simulations and hands-on tools.
 
-ETB Projects is a STEM-focused space shaped by our personal curiosity. Our topics range from string theory to solid-state physics, and this site serves as a living archive of our learning journey. Everything here reflects our genuine passion for the material and a desire to share our progress as we grow.
+In addition, we include a book review section. These may not always be STEM-specific, but they help keep our minds active and engaged. We believe that exploring a wide range of ideas strengthens our thinking across disciplines.
 
-In addition to simulations and hands-on tools, we include book reviews. These may not always be STEM-specific, but they help keep our minds active and engaged. We believe that exploring a wide range of ideas strengthens our thinking across disciplines.
+This site also serves as a platform for the business project [JW Analytics Cikarang & Co.](https://www.linkedin.com/company/jw-analytics-cikarang-co), which showcases the development of 3D design models built using SketchUp. The project is led by Joseph Y. and focuses on architectural and real estate planning in Indonesia, with a mission to apply data analytics for design and process optimization.
 
-We're also experimenting with visual tools like SketchUp to help bring ideas to life. These models and visual mockups are featured on separate pages and serve as part of our creative development process.
+## Contributors
+We acknowledge those who have contributed to ETB Projects through writing, feedback, or design.
 
-This site also ties into our business project, **JWAC**, which applies our engineering mindset and design skills in real-world contexts. ETB Projects functions as both a creative outlet and a sandbox for the knowledge we apply through JWAC.
+- Joseph W. Yazuardi, University of Michigan-Ann Arbor / Johns Hopkins University
+- Carl Somera, University of California, Berkeley
 
 
