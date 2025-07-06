@@ -9,17 +9,22 @@ nav_order: 1
   <span style="font-weight: 600; font-size: 2rem; line-height: 1;">Engineering Toolbox Projects</span>
 </h1>
 
-## Welcome to ETB Projects! 👋🔭📚
-ETB Projects is a STEM-focused collaborative project shaped by our shared passion for knowledge. Our topics range from string theory to solid-state physics, and this site serves as a living documentation of our academic and professional progress. We primarily focus on theoretical and applied physics, including a range of simulations and hands-on tools.
+## Welcome to ETB Projects! 👋 🔭 📚
 
-In addition, we include a book review section. These may not always be STEM-specific, but they help keep our minds active and engaged. We believe that exploring a wide range of ideas strengthens our thinking across disciplines.
+ETB Projects is a STEM-focused collaborative project shaped by our shared passion for knowledge. Our topics range from string theory to solid-state physics, and this site serves as a living archive of our academic and professional development. We primarily focus on theoretical and applied physics, including a range of simulations and hands-on tools.
 
-This site also serves as a platform for the business project [JW Analytics Cikarang & Co.](https://www.linkedin.com/company/jw-analytics-cikarang-co), which showcases the development of 3D design models built using SketchUp. The project is led by Joseph Y. and focuses on architectural and real estate planning in Indonesia, with a mission to apply data analytics for design and process optimization.
+This initiative was co-founded by Joseph Yazuardi and Carl Somera, both undergraduate physics majors with a shared interest in interdisciplinary learning.
 
+We also include a book review section. While not always STEM-specific, these reviews help keep our minds active and engaged. We believe that exploring a wide range of ideas sharpens our thinking across disciplines.
+
+Additionally, this site hosts updates from the business project [JW Analytics Cikarang & Co.](https://www.linkedin.com/company/jw-analytics-cikarang-co), which showcases 3D model development using SketchUp. Led by Joseph Yazuardi in the role of Project Engineer, the initiative focuses on architectural and real estate planning in Indonesia, with an emphasis on applying data analytics for design and process optimization.
+
+---
 ## Contributors
-We acknowledge those who have contributed to ETB Projects through writing, feedback, or design.
 
-- Joseph W. Yazuardi, University of Michigan-Ann Arbor / Johns Hopkins University
-- Carl Somera, University of California, Berkeley
+We gratefully acknowledge those who have contributed to ETB Projects through writing, feedback, design, or support.  
+**Bolded entries indicate core team members** who have shown consistent leadership and direction.
 
+- [**Joseph W. Yazuardi**](https://www.linkedin.com/in/yazuardi/) (Project Lead), University of Michigan–Ann Arbor / Johns Hopkins University  
+- [**Carl Somera**](https://www.linkedin.com/in/carl-somera-511489357/) (Project Engineer), University of California, Berkeley
 
