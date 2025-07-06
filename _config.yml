@@ -1,8 +1,8 @@
 title: ETB Projects
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A Collaborative STEM Project.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://etbprojects.com
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/etbprojects/etbprojects.github.io
