@@ -2,8 +2,6 @@ title: ETB Projects
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-logo: "/assets/image/ETB Projects Logo.png"
-
 url: https://just-the-docs.github.io
 
 aux_links:
