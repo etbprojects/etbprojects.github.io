@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<h1>
-  <img src="/assets/image/ETBLogo.jpg" alt="ETB Projects Logo" style="height: 60px; vertical-align: middle; margin-right: 10px;">
-  Welcome to ETB Projects
+<h1 style="display: flex; align-items: center; gap: 16px;">
+  <img src="/assets/image/ETBLogo.jpg" alt="ETB Logo" style="height: 50px;">
+  <span style="font-size: 2em;">Engineering Toolbox</span>
 </h1>
