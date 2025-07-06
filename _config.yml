@@ -1,8 +1,12 @@
 title: ETB Projects
 description: A Collaborative STEM Project.
 theme: just-the-docs
-favicon_ico: "/assets/image/favicon.ico"
 url: https://etbprojects.com
 
+favicon_ico: "/assets/image/favicon.ico"
+
 aux_links:
-  Template Repository: https://github.com/etbprojects/etbprojects.github.io
+  GitHub Repo: https://github.com/etbprojects/etbprojects.github.io
+
+footer_content: >
+  © 2025 ETB Projects | 🏠 HQ: Ann Arbor, MI, USA | 📩 Contact: <a href="mailto:yazuardi@umich.edu">yazuardi@umich.edu</a>
