@@ -10,9 +10,16 @@ This is our growing collection of research and technical documentation. Each pap
 
 ---
 
-### [Simplification of the Gaussian Integral](/assets/pdfs/First_Project___Simplication_of_the_Gaussian_Integral.pdf)
+### [Simplification of the Gaussian Integral](/assets/pdfs/First_Project___Simplication_of_the_Gaussian_Integral.pdf)  
+*By Joseph Yazuardi*
 
-*By Joseph Yazuardi*  
-This paper revisits the Gaussian integral using a simplification technique inspired by polar coordinate transformations. It’s a short foundational exercise that anchors some of our later simulations.
+This paper presents a personal exploration of the Gaussian integral and its polar coordinate transformation. Written independently as an undergraduate, it walks through a full derivation and concludes with a graphical visualization of the bell curve. It was also Joseph’s first project using LaTeX.
 
 ---
+
+### [Pendulum Motion: Numerical Methods and Analysis](/assets/pdfs/Pendulum%20Motion.pdf)  
+*By Carl Somera*
+
+This paper explores the motion of a pendulum using Newtonian mechanics and numerical methods, specifically the Runge-Kutta 4 (RK4) algorithm. It compares results from small-angle approximations with full nonlinear numerical solutions, and even includes damping analysis for air resistance models.
+
+📎 [Download Python code (VectorRK4.py)](/assets/code/VectorRK4.py)
