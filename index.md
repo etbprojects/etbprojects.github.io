@@ -8,7 +8,7 @@ nav_order: 1
   <img src="/assets/image/ETBLogo.jpg" alt="ETB Logo" style="height: 48px; vertical-align: middle;">
   <span style="font-weight: 600; font-size: 2rem; line-height: 1;">Engineering Toolbox Projects</span>
 </h1>
----
+
 ## Welcome to ETB Projects! 👋 🔭 📚
 
 ETB Projects is a STEM-focused collaborative project shaped by our shared passion for knowledge. Our topics range from string theory to solid-state physics, and this site serves as a living archive of our academic and professional development. We primarily focus on theoretical and applied physics, including a range of simulations and hands-on tools.
@@ -26,7 +26,7 @@ Additionally, this site hosts updates from the business project [JW Analytics Ci
 *By Carl Somera*
 
 A developing textbook covering both bosonic and superstring theory. Written for graduate-level readers, it aims to be rigorous yet accessible for those new to the subject.
----
+
 ## 🧑‍🔬 Contributors
 
 We gratefully acknowledge those who have contributed to ETB Projects through writing, feedback, design, or support.  
