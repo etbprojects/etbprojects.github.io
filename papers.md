@@ -33,3 +33,11 @@ String theory textbook that will cover both bosonic and superstring theory. It i
 
 
 ---
+
+### [Alpha-Induced X-ray Emission](/assets/pdfs/P441_Lab_4___Alpha_Induced_X_ray_emission.pdf)  
+*By Joseph Yazuardi & Yufeng Chen*
+
+A lab report from the University of Michigan’s Advanced Physics Laboratory (P441), exploring X-ray spectroscopy using alpha particle excitation. The experiment validates Moseley’s Law and analyzes samples like aluminum, a U.S. quarter, and YBCO. Unknowns revealed tantalum, lead, and bismuth. Yufeng Chen was Joseph’s lab partner for this project.
+
+
+---
