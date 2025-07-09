@@ -23,3 +23,9 @@ This paper presents a personal exploration of the Gaussian integral and its pola
 This paper explores the motion of a pendulum using Newtonian mechanics and numerical methods, specifically the Runge-Kutta 4 (RK4) algorithm. It compares results from small-angle approximations with full nonlinear numerical solutions, and even includes damping analysis for air resistance models.
 
 📎 [Download Python code (VectorRK4.py)](/assets/code/VectorRK4.py)
+
+---
+
+### [String Theory Textbook](/assets/pdfs/String Theory Textbook v0.1.pdf)
+*By Carl Somera*
+String theory textbook that will cover both bosonic and superstring theory. It is meant to provide a rigrous yet easy to understand introduction to the subject at a graduate level.
