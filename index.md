@@ -20,7 +20,14 @@ We also include a book review section. While not always STEM-specific, these rev
 Additionally, this site hosts updates from the business project [JW Analytics Cikarang & Co.](https://www.linkedin.com/company/jw-analytics-cikarang-co), which showcases 3D model development using SketchUp. Led by Joseph Yazuardi in the role of Project Engineer, the initiative focuses on architectural and real estate planning in Indonesia, with an emphasis on applying data analytics for design and process optimization.
 
 ---
-## Contributors
+## 📌 Featured
+
+### [String Theory Textbook](/assets/pdfs/String%20Theory%20Textbook%20v0.1.pdf)  
+*By Carl Somera*
+
+A developing textbook covering both bosonic and superstring theory. Written for graduate-level readers, it aims to be rigorous yet accessible for those new to the subject.
+
+## 🧑‍🔬 Contributors
 
 We gratefully acknowledge those who have contributed to ETB Projects through writing, feedback, design, or support.  
 **Bolded entries indicate core team members** who have shown consistent leadership and direction.
