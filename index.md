@@ -27,6 +27,7 @@ Additionally, this site hosts updates from the business project [JW Analytics Ci
 
 A developing textbook covering both bosonic and superstring theory. Written for graduate-level readers, it aims to be rigorous yet accessible for those new to the subject.
 
+---
 ## 🧑‍🔬 Contributors
 
 We gratefully acknowledge those who have contributed to ETB Projects through writing, feedback, design, or support.  
