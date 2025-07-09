@@ -29,3 +29,6 @@ This paper explores the motion of a pendulum using Newtonian mechanics and numer
 ### [String Theory Textbook](/assets/pdfs/String Theory Textbook v0.1.pdf)
 *By Carl Somera*
 String theory textbook that will cover both bosonic and superstring theory. It is meant to provide a rigrous yet easy to understand introduction to the subject at a graduate level.
+
+
+---
