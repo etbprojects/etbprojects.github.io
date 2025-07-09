@@ -8,9 +8,9 @@ nav_order: 1
   <img src="/assets/image/ETBLogo.jpg" alt="ETB Logo" style="height: 48px; vertical-align: middle;">
   <span style="font-weight: 600; font-size: 2rem; line-height: 1;">Engineering Toolbox Projects</span>
 </h1>
-
-## Welcome to ETB Projects! 👋 🔭 📚
 ---
+## Welcome to ETB Projects! 👋 🔭 📚
+
 ETB Projects is a STEM-focused collaborative project shaped by our shared passion for knowledge. Our topics range from string theory to solid-state physics, and this site serves as a living archive of our academic and professional development. We primarily focus on theoretical and applied physics, including a range of simulations and hands-on tools.
 
 This initiative was co-founded by Joseph Yazuardi and Carl Somera, both undergraduate physics majors with a shared interest in interdisciplinary learning.
