@@ -22,7 +22,7 @@ Additionally, this site hosts updates from the business project [JW Analytics Ci
 ---
 ## 📌 Featured
 
-### [String Theory Textbook](/assets/pdfs/String_Theory0.3.pdf)  
+### [String Theory Textbook](/assets/pdfs/String_Theory0.30.pdf)  
 *By Carl Somera*
 
 A developing textbook covering both bosonic and superstring theory. Written for graduate-level readers, it aims to be rigorous yet accessible for those new to the subject.
